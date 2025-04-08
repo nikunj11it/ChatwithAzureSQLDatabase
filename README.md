@@ -4,7 +4,7 @@
 > Updates and modifications are being made frequently, which may impact stability or functionality. This notice will be removed once development is complete and the project reaches a stable release.
 
 
-# DataSage: Azure AI Question Answering System over SQL Data with LangGraph
+# Azure AI Question Answering System over SQL Data with LangGraph
 
 ![diagram](./media/logo_small.png)
 
